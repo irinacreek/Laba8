@@ -15,7 +15,7 @@ namespace Task1
         public string Text { get; set; }
     }
 
-    class Program
+    class Task1
     {
         static Timer timer;
         static int Timer = 0;

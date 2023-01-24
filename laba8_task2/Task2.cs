@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace Task2
 {
-    public class Program
+    public class Task2
     {
         static void Main()
         {
